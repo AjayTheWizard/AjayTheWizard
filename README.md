@@ -11,7 +11,7 @@
 + Typescript
 + Solidity (just a Beginner)
 ## UI
-+ TailwindCSS
+<img src="tw.svg" />
 + Bootstrap
 + ReactStrap
 ## Front-End
