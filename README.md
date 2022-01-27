@@ -11,7 +11,7 @@
 + Typescript
 + Solidity (just a Beginner)
 ## UI
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
+<img height="40" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
 + Bootstrap
 + ReactStrap
 ## Front-End
