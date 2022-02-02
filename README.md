@@ -16,7 +16,7 @@
 <img height="40" src="https://expressjs.com/images/favicon.png" />
 
 ## Databases
-<img height="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /><img height="40" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png"/>
+<img height="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /> &nbsp; <img height="40" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png"/>
 
 ## Some Libraries
 + React Router
