@@ -23,7 +23,7 @@
 <img height="40" src="https://expressjs.com/images/favicon.png" />
 
 ## Databases
-<img height="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /> &nbsp; <img height="40" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png"/>
+<img height="40" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" /> &nbsp; <img height="40" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png"/> &nbsp; <img src="https://redis.io/images/redis-white.png" height="40" />
 
 ## Some Libraries
 <img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" /> <img height="40" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" /> <img height="40" src="https://react-query.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" /> 
