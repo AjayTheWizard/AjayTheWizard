@@ -6,9 +6,10 @@
  |___| |_| |_| |_|  /_/   \_\/ |\__,_|\__, |  |_| \_\__,_|/ |\__,_|
                            |__/       |___/             |__/       
 ```
-+ I don't have much experience in Coding ( just 8 months )
++ I don't have much experience in Coding ( just 9 months )
 + I'm **16** years old
-+ I'm still learning at lot ( especially `Web3` )
++ I'm still learning at lot
++ Currently Busy with preparing for My Board Examination
 
 ## Programming Languages
 <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" height="40" /> &nbsp; <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
